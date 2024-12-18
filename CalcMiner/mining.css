@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #9a0909;
+  text-align: center;
+}
+
+
+body
+ {
+  margin-top: 0%;
+  line-height: 50px;
+  color: rgb(218, 212, 225);
+background-color:rgb(222, 229, 230)
+}
+
+
+main {
+  line-height: 70px;
+  height: 70vh;
+  color: #050000fe;
+display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+  
+
+
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.right {
+  width: 52rem;
+  font-size: 2rem;
+}
+
+.between {
+   font-size: 1.4rem;
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+}
+
+.Bitcoin {
+  margin-top: 25px;
+    background: none;
+    border: 4px solid #354924;
+  font-family: inherit;
+  color: inherit;
+  font-size: 2rem;
+  padding: 0.01rem;
+  width: 35rem;
+  text-align: center;
+  display: block;
+  margin-bottom: 3rem;
+}
+
+.th_s {
+   background: none;
+border: 4px solid#354924;
+font-family: inherit;
+color: inherit;
+font-size: 2rem;
+padding: 0.05rem;
+width: 35rem;
+text-align: center;
+display: block;
+margin-bottom: 3rem;
+}
+
+.rub_kvt {
+    background: none;
+border: 4px solid#354924;
+font-family: inherit;
+color: inherit;
+font-size: 2rem;
+padding: 0.05rem;
+width: 35rem;
+text-align: center;
+display: block;
+margin-bottom: 3rem;
+}
+
+.kvt_h {
+     background: none;
+border: 4px solid#354924;
+font-family: inherit;
+color: inherit;
+font-size: 2rem;
+padding: 0.05rem;
+width: 35rem;
+text-align: center;
+display: block;
+margin-bottom: 3rem;
+}
+
+.asic_cost {
+      background: none;
+border: 4px solid#354924;
+font-family: inherit;
+color: inherit;
+font-size: 2rem;
+padding: 0.05rem;
+width: 35rem;
+text-align: center;
+display: block;
+margin-bottom: 3rem;
+}
+
+.check {
+  color: #58b309;
+  width: 15rem;
+  height: 3rem;
+  border-radius: 20px;
+  background-color: #5b8735;
+}
+
+.message {
+  margin-bottom: 8rem;
+  height: 3rem;
+}
